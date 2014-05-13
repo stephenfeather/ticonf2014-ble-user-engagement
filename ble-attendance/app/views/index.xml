@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="wrapper">
+		<ImageView id="photo"/>
+		<Label id="name"/>
+		<Label id="bio"/>
+	</Window>
+</Alloy>
