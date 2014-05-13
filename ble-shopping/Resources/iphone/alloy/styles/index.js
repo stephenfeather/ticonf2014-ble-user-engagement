@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0002,"key":"table","style":{top:64,bottom:44,}},{"isId":true,"priority":100000.0003,"key":"title","style":{text:L("Shopping"),top:20,height:44,color:"#ffffff",}},{"isId":true,"priority":100000.0004,"key":"wrapper","style":{}},{"isId":true,"priority":100000.0005,"key":"details","style":{bottom:0,height:44,color:"#ffffff",}}];

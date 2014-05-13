@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="wrapper">
+		<Label id="title"/>
+		<TableView id="table"/>
+		<Label id="details"/>
+	</Window>
+</Alloy>

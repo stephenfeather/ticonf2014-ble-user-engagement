@@ -1,0 +1,19 @@
+"#table": {
+    top: 64,
+    bottom: 44
+}
+"#title": {
+    text: L("Shopping"),
+    top: 20,
+    height: 44,
+    color: "#ffffff"
+}
+"#wrapper": {
+
+}
+
+"#details": {
+    bottom: 0,
+    height: 44,
+    color: "#ffffff"
+}
