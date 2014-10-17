@@ -7,3 +7,5 @@ I want to thank Joe Beuckman whose TiBeacons module first opened the door for BL
 ### Presentation
 The presentation was given at the 2014 [TiConf](http://ticonf.org) event in New York City. The [presentation slides](http://goo.gl/OxIDzB) are available on slideshare.  Video should be up after it has been processed.
 
+### These demos built with xCode 5 targeting iOS7. Work is being done to bring them up to TiSDK 3.4.0, xCode 6 and iOS8
+
